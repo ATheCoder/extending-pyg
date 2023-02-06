@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/athecoder/libtorch/include",
+                "/home/athecoder/libtorch/include/THC",
+                "/home/athecoder/libtorch/include/torch/csrc/api/include",
+                "/home/athecoder/anaconda3/envs/pytorch_1.3/include/python3.10"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++",
+            "cStandard": "c17",
+            "cppStandard": "c++23",
+            "intelliSenseMode": "linux-gcc-x64",
+            "browse": {
+                "path": [
+                    "/home/athecoder/libtorch/include",
+                    "/home/athecoder/libtorch/include/THC",
+                    "/home/athecoder/libtorch/include/torch/csrc/api/include",
+                    "/home/athecoder/anaconda3/envs/pytorch_1.3/include/python3.10"
+                ]
+            },
+            "compilerArgs": [],
+            "mergeConfigurations": false
+        }
+    ],
+    "version": 4
+}
